@@ -11,3 +11,5 @@ abaixo está pontos e observações sobre mim:
 
 # Areas interessadas:
 <a href="https://github.com/035joaoneto/aboutMe/blob/main/AREAS.md">Arquivo md com as áreas</a>
+texto errado para testar git checkout <hash>
+
