@@ -8,4 +8,6 @@ abaixo está pontos e observações sobre mim:
 - praticante de kickboxing
 - viciado em heavy metal
 - talvez um depentente de cafeína
- 
+
+# Areas interessadas:
+<a href="https://github.com/035joaoneto/aboutMe/blob/main/AREAS.md">Arquivo md com as áreas</a>
